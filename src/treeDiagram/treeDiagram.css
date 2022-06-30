@@ -1,0 +1,23 @@
+body{
+  font-family: monospace;
+}
+
+h6{
+  margin: 5px;
+}
+
+.stickyButton {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  margin-top: 500px;
+}
+
+.contentPosition {
+  padding: 80px;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}

@@ -1,0 +1,266 @@
+[
+	{
+		"Parent": null,
+		"detail": "1",
+		"head": "root",
+		"level": 0,
+		"type": "Topic",
+		"_id": "abcd0000"
+	},
+	{
+		"Parent": "abcd0000",
+		"detail": "1.1",
+		"head": "root",
+		"level": 1,
+		"type": "Sub-Topic",
+		"_id": "abcd0001"
+	},
+	{
+		"Parent": "abcd0001",
+		"detail": "1.1.1",
+		"head": "root",
+		"level": 1,
+		"type": "Idea",
+		"_id": "abcd0002"
+	},
+	{
+		"Parent": "abcd0002",
+		"detail": "1.1.1.1",
+		"head": "root",
+		"level": 1,
+		"type": "Detail",
+		"_id": "abcd0003"
+	},
+	{
+		"Parent": "abcd0001",
+		"detail": "1.1.2",
+		"head": "root",
+		"level": 1,
+		"type": "Idea",
+		"_id": "abcd0004"
+	},
+	{
+		"Parent": "abcd0004",
+		"detail": "1.1.2.1",
+		"head": "root",
+		"level": 1,
+		"type": "Detail",
+		"_id": "abcd0005"
+	},
+	{
+		"Parent": "abcd0000",
+		"detail": "1.1+",
+		"head": "root",
+		"level": 1,
+		"type": "Sub-Topic",
+		"_id": "abcd0006"
+	},
+	{
+		"Parent": "abcd0006",
+		"detail": "1.1+.1",
+		"head": "root",
+		"level": 1,
+		"type": "Idea",
+		"_id": "abcd0007"
+	},
+	{
+		"Parent": "abcd0007",
+		"detail": "1.1+.1.1",
+		"head": "root",
+		"level": 1,
+		"type": "Detail",
+		"_id": "abcd0008"
+	},
+	{
+		"Parent": "abcd0006",
+		"detail": "1.1+.2",
+		"head": "root",
+		"level": 1,
+		"type": "Idea",
+		"_id": "abcd0009"
+	},
+	{
+		"Parent": "abcd0009",
+		"detail": "1.1+.2.1",
+		"head": "root",
+		"level": 1,
+		"type": "Detail",
+		"_id": "abcd0010"
+	},
+	{
+		"Parent": "abcd0001",
+		"detail": "1.2",
+		"head": "root",
+		"level": 2,
+		"type": "Sub-Topic",
+		"_id": "abcd0011"
+	},
+	{
+		"Parent": "abcd0011",
+		"detail": "1.2.1",
+		"head": "root",
+		"level": 2,
+		"type": "Idea",
+		"_id": "abcd0012"
+	},
+	{
+		"Parent": "abcd0012",
+		"detail": "1.2.1.1",
+		"head": "root",
+		"level": 2,
+		"type": "Detail",
+		"_id": "abcd0013"
+	},
+	{
+		"Parent": "abcd0011",
+		"detail": "1.2.2",
+		"head": "root",
+		"level": 2,
+		"type": "Idea",
+		"_id": "abcd0014"
+	},
+	{
+		"Parent": "abcd0014",
+		"detail": "1.2.2.1",
+		"head": "root",
+		"level": 2,
+		"type": "Detail",
+		"_id": "abcd0015"
+	},
+	{
+		"Parent": "abcd0011",
+		"detail": "1.2.3",
+		"head": "root",
+		"level": 2,
+		"type": "Idea",
+		"_id": "abcd0016"
+	},
+	{
+		"Parent": "abcd0016",
+		"detail": "1.2.3.1",
+		"head": "root",
+		"level": 2,
+		"type": "Detail",
+		"_id": "abcd0017"
+	},
+	{
+		"Parent": "abcd0001",
+		"detail": "1.2",
+		"head": "root",
+		"level": 2,
+		"type": "Sub-Topic",
+		"_id": "abcd0018"
+	},
+	{
+		"Parent": "abcd0018",
+		"detail": "1.2.1",
+		"head": "root",
+		"level": 2,
+		"type": "Idea",
+		"_id": "abcd0019"
+	},
+	{
+		"Parent": "abcd0019",
+		"detail": "1.2.1.1",
+		"head": "root",
+		"level": 2,
+		"type": "Detail",
+		"_id": "abcd0020"
+	},
+	{
+		"Parent": "abcd0018",
+		"detail": "1.2.2",
+		"head": "root",
+		"level": 2,
+		"type": "Idea",
+		"_id": "abcd0021"
+	},
+	{
+		"Parent": "abcd0021",
+		"detail": "1.2.2.1",
+		"head": "root",
+		"level": 2,
+		"type": "Detail",
+		"_id": "abcd0022"
+	},
+	{
+		"Parent": "abcd0011",
+		"detail": "1.3",
+		"head": "root",
+		"level": 3,
+		"type": "Sub-Topic",
+		"_id": "abcd0023"
+	},
+	{
+		"Parent": "abcd0023",
+		"detail": "1.3.1",
+		"head": "root",
+		"level": 3,
+		"type": "Idea",
+		"_id": "abcd0024"
+	},
+	{
+		"Parent": "abcd0024",
+		"detail": "1.3.1.1",
+		"head": "root",
+		"level": 3,
+		"type": "Detail",
+		"_id": "abcd0025"
+	},
+	{
+		"Parent": "abcd0023",
+		"detail": "1.3.2",
+		"head": "root",
+		"level": 3,
+		"type": "Idea",
+		"_id": "abcd0026"
+	},
+	{
+		"Parent": "abcd0026",
+		"detail": "1.3.2.1",
+		"head": "root",
+		"level": 3,
+		"type": "Detail",
+		"_id": "abcd0027"
+	},
+	{
+		"Parent": "abcd0023",
+		"detail": "1.4",
+		"head": "root",
+		"level": 4,
+		"type": "Sub-Topic",
+		"_id": "abcd0028"
+	},
+	{
+		"Parent": "abcd0028",
+		"detail": "1.4.1",
+		"head": "root",
+		"level": 4,
+		"type": "Idea",
+		"_id": "abcd0029"
+	},
+	{
+		"Parent": "abcd0029",
+		"detail": "1.4.1.1",
+		"head": "root",
+		"level": 4,
+		"type": "Detail",
+		"_id": "abcd0030"
+	},
+	{
+		"Parent": "abcd0028",
+		"detail": "1.4.2",
+		"head": "root",
+		"level": 4,
+		"type": "Idea",
+		"_id": "abcd0031"
+	},
+	{
+		"Parent": "abcd0031",
+		"detail": "1.3.2.1",
+		"head": "root",
+		"level": 3,
+		"type": "Detail",
+		"_id": "abcd0032"
+	}
+]
