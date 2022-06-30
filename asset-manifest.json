@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tree-in-tree/static/css/main.cac0f85a.css",
+    "main.js": "/Tree-in-tree/static/js/main.8e779cb6.js",
+    "index.html": "/Tree-in-tree/index.html",
+    "main.cac0f85a.css.map": "/Tree-in-tree/static/css/main.cac0f85a.css.map",
+    "main.8e779cb6.js.map": "/Tree-in-tree/static/js/main.8e779cb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cac0f85a.css",
+    "static/js/main.8e779cb6.js"
+  ]
+}
